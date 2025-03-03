@@ -416,3 +416,6 @@
 ## 8. ⏰ empty
 
 - [ ] [0049. empty](https://tdahuyou.github.io/TNotes.svg/notes/0049.%20empty/README) <!-- [locale](./notes/0049.%20empty/README) -->  
+  
+  
+  
