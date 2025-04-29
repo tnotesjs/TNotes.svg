@@ -1,8 +1,10 @@
 # [0013. 绘制【扫码】图标](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0013.%20%E7%BB%98%E5%88%B6%E3%80%90%E6%89%AB%E7%A0%81%E3%80%91%E5%9B%BE%E6%A0%87)
 
 <!-- region:toc -->
+
 - [1. 🔗 iconfont 图标库](#1--iconfont-图标库)
 - [2. 💻 demos.1 - 绘制扫码图标](#2--demos1---绘制扫码图标)
+
 <!-- endregion:toc -->
 - **svg 经常被用来设计一些图标，一些非常简单的可以直接手写，不过更多时候还是使用设计软件制作。**
 - 在学习 svg 的过程中，可以自己找几个简单的图标来自行练习一下。

@@ -1,9 +1,7 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.svg",
-  "keywords": [
-    "TNotes.svg"
-  ],
+  "keywords": ["TNotes.svg"],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -14,6 +12,7 @@
     "assets"
   ],
   "port": 9380,
+  "rootDocsSrcDir": "../_/docs/src",
   "menuItems": [
     {
       "text": "🏠 Home",

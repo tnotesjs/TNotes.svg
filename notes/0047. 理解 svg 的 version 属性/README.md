@@ -1,7 +1,9 @@
 # [0047. 理解 svg 的 version 属性](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0047.%20%E7%90%86%E8%A7%A3%20svg%20%E7%9A%84%20version%20%E5%B1%9E%E6%80%A7)
 
 <!-- region:toc -->
+
 - [1. svg 的 version 属性](#1-svg-的-version-属性)
+
 <!-- endregion:toc -->
 - version 属性的值只有两种情况：`1.0` 和 `1.1`。
 - **🗑 version 属性已经被抛弃了，你可以认为它是一个无效属性。**

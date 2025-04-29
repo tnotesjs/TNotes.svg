@@ -1,9 +1,11 @@
 # [0022. 使用 js 控制 svg 实现 CRUD 操作](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0022.%20%E4%BD%BF%E7%94%A8%20js%20%E6%8E%A7%E5%88%B6%20svg%20%E5%AE%9E%E7%8E%B0%20CRUD%20%E6%93%8D%E4%BD%9C)
 
 <!-- region:toc -->
+
 - [1. 🔗 snapsvg](#1--snapsvg)
 - [2. 💻 demos.1 - 使用 js 控制 svg 实现 CRUD 操作](#2--demos1---使用-js-控制-svg-实现-crud-操作)
 - [3. 🤔 问：CRUD 是什么？](#3--问crud-是什么)
+
 <!-- endregion:toc -->
 - 本节的都是一些非常简单的 js 逻辑，快速过一遍即可。
   - 注意点：在读写 svg 标签的属性值的时候（比如 circle 元素的圆心 cx、cy，半径 r），不能直接 `circle.r = xxx` 的方式操作属性，应该使用 `circle.setAttribute(r, xxx)` 和 `svg.getAttribute(r)` 方法操作属性。

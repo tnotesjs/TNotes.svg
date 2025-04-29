@@ -1,7 +1,9 @@
 # [0018. 使用 textPath 实现按照指定路径绘制文本](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0018.%20%E4%BD%BF%E7%94%A8%20textPath%20%E5%AE%9E%E7%8E%B0%E6%8C%89%E7%85%A7%E6%8C%87%E5%AE%9A%E8%B7%AF%E5%BE%84%E7%BB%98%E5%88%B6%E6%96%87%E6%9C%AC)
 
 <!-- region:toc -->
+
 - [1. 💻 demos.1 - textPath 基本使用](#1--demos1---textpath-基本使用)
+
 <!-- endregion:toc -->
 - 看下文档中提供的 demo 效果，很容易理解其作用。效果蛮惊艳的，不过不太常见。
 

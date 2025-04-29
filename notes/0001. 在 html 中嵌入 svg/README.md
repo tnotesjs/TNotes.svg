@@ -1,11 +1,13 @@
 # [0001. 在 html 中嵌入 svg](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0001.%20%E5%9C%A8%20html%20%E4%B8%AD%E5%B5%8C%E5%85%A5%20svg)
 
 <!-- region:toc -->
+
 - [1. 💻 demos.1 - 准备测试用的 svg 图形](#1--demos1---准备测试用的-svg-图形)
 - [2. 💻 demos.2 - 通过 img 标签来嵌入 svg](#2--demos2---通过-img-标签来嵌入-svg)
 - [3. 💻 demos.3 - 通过直接嵌入源码的方式来嵌入 svg](#3--demos3---通过直接嵌入源码的方式来嵌入-svg)
 - [4. 💻 demos.4 - 通过 iframe 来嵌入 svg](#4--demos4---通过-iframe-来嵌入-svg)
 - [5. 💻 demos.5 - 通过 object 标签来嵌入 svg](#5--demos5---通过-object-标签来嵌入-svg)
+
 <!-- endregion:toc -->
 - 本文介绍了在 html 文件中引入 svg 资源的实现方式，可以通过下面这 4 种方式来在 html 中嵌入 svg：
   1. 通过 img 标签来嵌入 svg

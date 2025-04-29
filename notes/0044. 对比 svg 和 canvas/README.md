@@ -1,8 +1,10 @@
 # [0044. 对比 svg 和 canvas](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0044.%20%E5%AF%B9%E6%AF%94%20svg%20%E5%92%8C%20canvas)
 
 <!-- region:toc -->
+
 - [1. 📒 对比 svg 和 canvas](#1--对比-svg-和-canvas)
 - [2. 📒 svg、canvas 的应用场景](#2--svgcanvas-的应用场景)
+
 <!-- endregion:toc -->
 - 文档中提供了一张表格，记录了这俩玩意儿之间的一些差异。可以等学完了 svg、canvas 的内容之后再来回看这篇文档中提到的内容。
 - 如何选择 svg、canvas？

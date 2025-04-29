@@ -1,8 +1,10 @@
 # [0016. 使用 defs 定义图形](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0016.%20%E4%BD%BF%E7%94%A8%20defs%20%E5%AE%9A%E4%B9%89%E5%9B%BE%E5%BD%A2)
 
 <!-- region:toc -->
+
 - [1. 💻 demos.1 - 使用 defs 定义图形](#1--demos1---使用-defs-定义图形)
 - [2. demos.2 - defs + g + use](#2-demos2---defs--g--use)
+
 <!-- endregion:toc -->
 - `<defs>` 用于定义图形，使用 `<defs>` 定义的元素不会直接显示，除非被其他 SVG 元素通过引用使用，通常配合 `<use>`、`<g>` 一起使用。
 

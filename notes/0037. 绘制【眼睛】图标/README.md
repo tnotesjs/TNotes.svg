@@ -1,7 +1,9 @@
 # [0037. 绘制【眼睛】图标](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0037.%20%E7%BB%98%E5%88%B6%E3%80%90%E7%9C%BC%E7%9D%9B%E3%80%91%E5%9B%BE%E6%A0%87)
 
 <!-- region:toc -->
+
 - [1. 💻 demos.1 - 绘制【眼睛】图标](#1--demos1---绘制眼睛图标)
+
 <!-- endregion:toc -->
 - 绘制眼睛图标时，中心有一个镂空的圆环。要弄清楚为什么这块的内容是镂空的，需要理解填充规则 nonzero 和 evenodd。
 

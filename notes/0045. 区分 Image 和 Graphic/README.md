@@ -1,7 +1,9 @@
 # [0045. 区分 Image 和 Graphic](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0045.%20%E5%8C%BA%E5%88%86%20Image%20%E5%92%8C%20Graphic)
 
 <!-- region:toc -->
+
 - [1. 📒 Image vs. Graphic](#1--image-vs-graphic)
+
 <!-- endregion:toc -->
 - 图像（Image）通常指的是 **像素数据的集合**，这些数据以栅格或点阵的形式存储。
 - 图形（Graphic）更多指的是 **通过数学表达式定义的图形**，例如 SVG 中的形状（圆形、矩形、路径等）。

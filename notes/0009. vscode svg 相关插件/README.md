@@ -1,9 +1,11 @@
 # [0009. vscode svg 相关插件](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0009.%20vscode%20svg%20%E7%9B%B8%E5%85%B3%E6%8F%92%E4%BB%B6)
 
 <!-- region:toc -->
+
 - [1. 📒 SVG 插件简介](#1--svg-插件简介)
 - [2. 📒 SVG Preview 插件简介](#2--svg-preview-插件简介)
 - [3. 📒 SVG Snippets 插件简介](#3--svg-snippets-插件简介)
+
 <!-- endregion:toc -->
 - 记录在 vscode 上推荐安装的一些 svg 相关插件，这些插件的作用是让你在 vscode 中编写 svg 程序有更好的书写体验，安装和使用也非常简单，如果你发现某个插件不好使，完全可以直接删了，或者禁用它。
 - 有关插件的详细描述说明，可自行查阅插件对应的官方文档，文中仅仅是对插件功能的简单描述。

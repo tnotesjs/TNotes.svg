@@ -1,10 +1,12 @@
 # [0048. 认识 path 元素](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0048.%20%E8%AE%A4%E8%AF%86%20path%20%E5%85%83%E7%B4%A0)
 
 <!-- region:toc -->
+
 - [1. 📒 近乎万能的 path](#1--近乎万能的-path)
 - [2. 📒 path 中一些常用的命令](#2--path-中一些常用的命令)
 - [3. 📒 手写 SVG 与设计软件导出 SVG 的区别及适用场景](#3--手写-svg-与设计软件导出-svg-的区别及适用场景)
 - [4. 💻 demos.1 - 来看一个由 path 制作的 react logo 的 svg 源码](#4--demos1---来看一个由-path-制作的-react-logo-的-svg-源码)
+
 <!-- endregion:toc -->
 - 在学习 path 的相关内容之前，先对 path 有个初步的认知，知道它都能用来干啥。
 - path 这玩意儿有点儿骚，因为它绘制的是路径，这个路径可以是直的也可以是弯的，可以是任意形状，也就是说几乎没有 path 不能绘制的图形。

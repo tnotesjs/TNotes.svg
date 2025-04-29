@@ -1,11 +1,13 @@
 # [0024. 使用属性 fill-rule 设置填充规则](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0024.%20%E4%BD%BF%E7%94%A8%E5%B1%9E%E6%80%A7%20fill-rule%20%E8%AE%BE%E7%BD%AE%E5%A1%AB%E5%85%85%E8%A7%84%E5%88%99)
 
 <!-- region:toc -->
+
 - [1. 🔗 links](#1--links)
 - [2. 📒 fill-rule 简介](#2--fill-rule-简介)
 - [3. 💻 demos.1 - nonzero 规则](#3--demos1---nonzero-规则)
 - [4. 💻 demos.2 - evenodd 规则](#4--demos2---evenodd-规则)
 - [5. 🤔 为什么需要有填充规则，它是为了解决什么场景下的问题？](#5--为什么需要有填充规则它是为了解决什么场景下的问题)
+
 <!-- endregion:toc -->
 - 这个 fill-rule 填充规则不太好理解，虽然只有两个值 nonzero、evenodd。填充规则，是一个通用的知识点，不仅仅限于 svg 中，在 canvas 中也是有这玩意儿的。
   这篇文档中的图形，是参照大佬“张鑫旭”的教程绘制的，对于最终的渲染结果，可以参考大佬的教程来对照着学习。

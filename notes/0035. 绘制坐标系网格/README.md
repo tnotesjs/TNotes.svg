@@ -1,7 +1,9 @@
 # [0035. 绘制坐标系网格](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0035.%20%E7%BB%98%E5%88%B6%E5%9D%90%E6%A0%87%E7%B3%BB%E7%BD%91%E6%A0%BC)
 
 <!-- region:toc -->
+
 - [1. 💻 demos.1 - 绘制坐标系网格](#1--demos1---绘制坐标系网格)
+
 <!-- endregion:toc -->
 - 这里绘制的网格，是为了又一个更直观的参考坐标系，学习 svg、canvas 之类的内容，很多时候都是在手写一个个坐标，有一个直观的坐标参考系，写起来会方便很多。
 - 想要理解这个坐标是怎么绘制的，涉及到以下知识点：`<line>`、`<text>`、`<g>`、`viewBox`。

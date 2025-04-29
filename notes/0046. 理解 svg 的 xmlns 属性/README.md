@@ -1,6 +1,7 @@
 # [0046. 理解 svg 的 xmlns 属性](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0046.%20%E7%90%86%E8%A7%A3%20svg%20%E7%9A%84%20xmlns%20%E5%B1%9E%E6%80%A7)
 
 <!-- region:toc -->
+
 - [1. 🔗 菜鸟教程 - xml 命名空间](#1--菜鸟教程---xml-命名空间)
 - [2. 💻 demos.1 - 带有命名空间 `xmlns="http://www.w3.org/2000/svg"`](#2--demos1---带有命名空间-xmlnshttpwwww3org2000svg)
 - [3. 💻 demos.2 - 不带命名空间 `xmlns="http://www.w3.org/2000/svg"`](#3--demos2---不带命名空间-xmlnshttpwwww3org2000svg)
@@ -8,6 +9,7 @@
 - [5. 💻 demos.3 - 在 html 中嵌入 svg](#5--demos3---在-html-中嵌入-svg)
 - [6. 🤔 知道本节的内容有啥用呢？](#6--知道本节的内容有啥用呢)
 - [7. 💻 demos.4 - 在线搬运的 .svg 需要注意 xmlns 声明是否缺失](#7--demos4---在线搬运的-svg-需要注意-xmlns-声明是否缺失)
+
 <!-- endregion:toc -->
 - 本节介绍的是 xmlns，这是一个属性，用于指定 XML 文档的命名空间。它决定了 svg 文件是否能够被正常渲染，在正式开始学习 svg 的绘图规则之前，有必要了解一下 `xmlns="http://www.w3.org/2000/svg"` 这条声明的作用。
 - 本节内容：模拟一个要求 - 在 `100*100` 的视口中，渲染一个圆心位置是 `(50, 50)`，半径是 `20` 的红色圆形，然后通过 demos 来对比带命名空间和不带命名空间的区别。
