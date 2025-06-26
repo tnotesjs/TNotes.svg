@@ -19,9 +19,9 @@
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--svg.png"
     },
-    "title": "SVG 笔记",
+    "title": "svg",
     "completed_notes_count": 34,
-    "details": "基本完成，还需要整理，目前记录的都是一些非常基础的内容。",
+    "details": "SVG 笔记",
     "link": "https://tdahuyou.github.io/TNotes.svg/"
   },
   "menuItems": [
