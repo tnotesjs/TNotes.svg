@@ -14,15 +14,18 @@
     "assets"
   ],
   "port": 9380,
-  "rootDocsSrcDir": "../_/docs/src",
-  "home.features.item": {
+  "rootSidebarDir": "../_/sidebars",
+  "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--svg.png"
     },
     "title": "svg",
     "completed_notes_count": 34,
     "details": "SVG 笔记",
-    "link": "https://tdahuyou.github.io/TNotes.svg/"
+    "link": "https://tdahuyou.github.io/TNotes.svg/",
+    "created_at": 1741007859000,
+    "updated_at": 1753580666000,
+    "days_since_birth": 9380
   },
   "menuItems": [
     {
