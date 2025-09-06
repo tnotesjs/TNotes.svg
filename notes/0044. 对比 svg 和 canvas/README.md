@@ -1,4 +1,4 @@
-# [0044. 对比 svg 和 canvas](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0044.%20%E5%AF%B9%E6%AF%94%20svg%20%E5%92%8C%20canvas)
+# [0044. 对比 svg 和 canvas](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0044.%20%E5%AF%B9%E6%AF%94%20svg%20%E5%92%8C%20canvas)
 
 <!-- region:toc -->
 

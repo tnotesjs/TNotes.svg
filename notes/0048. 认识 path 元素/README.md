@@ -1,4 +1,4 @@
-# [0048. 认识 path 元素](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0048.%20%E8%AE%A4%E8%AF%86%20path%20%E5%85%83%E7%B4%A0)
+# [0048. 认识 path 元素](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0048.%20%E8%AE%A4%E8%AF%86%20path%20%E5%85%83%E7%B4%A0)
 
 <!-- region:toc -->
 

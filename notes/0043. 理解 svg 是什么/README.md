@@ -1,4 +1,4 @@
-# [0043. 理解 svg 是什么](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0043.%20%E7%90%86%E8%A7%A3%20svg%20%E6%98%AF%E4%BB%80%E4%B9%88)
+# [0043. 理解 svg 是什么](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0043.%20%E7%90%86%E8%A7%A3%20svg%20%E6%98%AF%E4%BB%80%E4%B9%88)
 
 <!-- region:toc -->
 

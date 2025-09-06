@@ -1,4 +1,4 @@
-# [0020. 使用 use 引用图形](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0020.%20%E4%BD%BF%E7%94%A8%20use%20%E5%BC%95%E7%94%A8%E5%9B%BE%E5%BD%A2)
+# [0020. 使用 use 引用图形](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0020.%20%E4%BD%BF%E7%94%A8%20use%20%E5%BC%95%E7%94%A8%E5%9B%BE%E5%BD%A2)
 
 <!-- region:toc -->
 

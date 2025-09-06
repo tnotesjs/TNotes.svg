@@ -1,4 +1,4 @@
-# [0046. 理解 svg 的 xmlns 属性](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0046.%20%E7%90%86%E8%A7%A3%20svg%20%E7%9A%84%20xmlns%20%E5%B1%9E%E6%80%A7)
+# [0046. 理解 svg 的 xmlns 属性](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0046.%20%E7%90%86%E8%A7%A3%20svg%20%E7%9A%84%20xmlns%20%E5%B1%9E%E6%80%A7)
 
 <!-- region:toc -->
 

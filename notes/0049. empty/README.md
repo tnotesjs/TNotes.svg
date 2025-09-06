@@ -1,4 +1,4 @@
-# [0049. empty](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0049.%20empty)
+# [0049. empty](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0049.%20empty)
 
 <!-- region:toc -->
 

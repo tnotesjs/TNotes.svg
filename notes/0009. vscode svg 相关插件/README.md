@@ -1,4 +1,4 @@
-# [0009. vscode svg 相关插件](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0009.%20vscode%20svg%20%E7%9B%B8%E5%85%B3%E6%8F%92%E4%BB%B6)
+# [0009. vscode svg 相关插件](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0009.%20vscode%20svg%20%E7%9B%B8%E5%85%B3%E6%8F%92%E4%BB%B6)
 
 <!-- region:toc -->
 

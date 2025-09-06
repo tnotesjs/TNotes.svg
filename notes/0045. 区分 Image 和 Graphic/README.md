@@ -1,4 +1,4 @@
-# [0045. 区分 Image 和 Graphic](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0045.%20%E5%8C%BA%E5%88%86%20Image%20%E5%92%8C%20Graphic)
+# [0045. 区分 Image 和 Graphic](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0045.%20%E5%8C%BA%E5%88%86%20Image%20%E5%92%8C%20Graphic)
 
 <!-- region:toc -->
 

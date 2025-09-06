@@ -1,4 +1,4 @@
-# [0012. 使用 path 绘制直线](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0012.%20%E4%BD%BF%E7%94%A8%20path%20%E7%BB%98%E5%88%B6%E7%9B%B4%E7%BA%BF)
+# [0012. 使用 path 绘制直线](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0012.%20%E4%BD%BF%E7%94%A8%20path%20%E7%BB%98%E5%88%B6%E7%9B%B4%E7%BA%BF)
 
 <!-- region:toc -->
 

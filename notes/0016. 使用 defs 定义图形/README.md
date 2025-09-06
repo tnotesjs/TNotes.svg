@@ -1,4 +1,4 @@
-# [0016. 使用 defs 定义图形](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0016.%20%E4%BD%BF%E7%94%A8%20defs%20%E5%AE%9A%E4%B9%89%E5%9B%BE%E5%BD%A2)
+# [0016. 使用 defs 定义图形](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0016.%20%E4%BD%BF%E7%94%A8%20defs%20%E5%AE%9A%E4%B9%89%E5%9B%BE%E5%BD%A2)
 
 <!-- region:toc -->
 

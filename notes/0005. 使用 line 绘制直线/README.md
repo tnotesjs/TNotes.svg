@@ -1,4 +1,4 @@
-# [0005. 使用 line 绘制直线](https://github.com/Tdahuyou/TNotes.svg/tree/main/notes/0005.%20%E4%BD%BF%E7%94%A8%20line%20%E7%BB%98%E5%88%B6%E7%9B%B4%E7%BA%BF)
+# [0005. 使用 line 绘制直线](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0005.%20%E4%BD%BF%E7%94%A8%20line%20%E7%BB%98%E5%88%B6%E7%9B%B4%E7%BA%BF)
 
 <!-- region:toc -->
 
