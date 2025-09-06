@@ -1,9 +1,7 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.svg",
-  "keywords": [
-    "TNotes.svg"
-  ],
+  "keywords": ["TNotes.svg"],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -17,7 +15,7 @@
   "rootSidebarDir": "../TNotes/sidebars",
   "root_item": {
     "icon": {
-      "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--svg.png"
+      "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--svg.png"
     },
     "title": "svg",
     "completed_notes_count": 34,
