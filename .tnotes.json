@@ -24,7 +24,7 @@
     "details": "SVG 笔记",
     "link": "https://tnotesjs.github.io/TNotes.svg/",
     "created_at": 1741007859000,
-    "updated_at": 1757172136453,
+    "updated_at": 1757554139073,
     "days_since_birth": 9380
   },
   "menuItems": [
@@ -38,7 +38,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tnotesjs.github.io/notes"
+      "link": "https://tnotesjs.github.io/TNotes"
     },
     {
       "text": "📂 TNotes.yuque",
