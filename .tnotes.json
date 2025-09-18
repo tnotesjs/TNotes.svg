@@ -1,7 +1,9 @@
 {
   "author": "tnotesjs",
   "repoName": "TNotes.svg",
-  "keywords": ["TNotes.svg"],
+  "keywords": [
+    "TNotes.svg"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -22,7 +24,7 @@
     "details": "SVG 笔记",
     "link": "https://tnotesjs.github.io/TNotes.svg/",
     "created_at": 1741007859000,
-    "updated_at": 1757554139073,
+    "updated_at": 1758172044544,
     "days_since_birth": 9380
   },
   "menuItems": [
