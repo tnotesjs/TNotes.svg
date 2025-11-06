@@ -4,7 +4,17 @@
 
 <!-- region:toc -->
 
-
+  - [1. svg 起步](#1-svg-起步)
+  - [2. 基本图形绘制](#2-基本图形绘制)
+  - [3. path 路径](#3-path-路径)
+  - [4. stroke 描边和 fill 填充](#4-stroke-描边和-fill-填充)
+  - [5. 复用](#5-复用)
+  - [6. svg 与传统前端技术相结合](#6-svg-与传统前端技术相结合)
+    - [6.1. svg + html](#61-svg--html)
+    - [6.2. svg + css](#62-svg--css)
+    - [6.3. svg + js](#63-svg--js)
+  - [7. 练习](#7-练习)
+  - [8. ⏰ empty](#8--empty)
 
 <!-- endregion:toc -->
 
