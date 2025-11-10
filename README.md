@@ -4,20 +4,19 @@
 
 <!-- region:toc -->
 
-  - [1. svg 起步](#1-svg-起步)
-  - [2. 基本图形绘制](#2-基本图形绘制)
-  - [3. path 路径](#3-path-路径)
-  - [4. stroke 描边和 fill 填充](#4-stroke-描边和-fill-填充)
-  - [5. 复用](#5-复用)
-  - [6. svg 与传统前端技术相结合](#6-svg-与传统前端技术相结合)
-    - [6.1. svg + html](#61-svg--html)
-    - [6.2. svg + css](#62-svg--css)
-    - [6.3. svg + js](#63-svg--js)
-  - [7. 练习](#7-练习)
-  - [8. ⏰ empty](#8--empty)
+- [1. svg 起步](#1-svg-起步)
+- [2. 基本图形绘制](#2-基本图形绘制)
+- [3. path 路径](#3-path-路径)
+- [4. stroke 描边和 fill 填充](#4-stroke-描边和-fill-填充)
+- [5. 复用](#5-复用)
+- [6. svg 与传统前端技术相结合](#6-svg-与传统前端技术相结合)
+  - [6.1. svg + html](#61-svg--html)
+  - [6.2. svg + css](#62-svg--css)
+  - [6.3. svg + js](#63-svg--js)
+- [7. 练习](#7-练习)
+- [8. ⏰ empty](#8--empty)
 
 <!-- endregion:toc -->
-
 
 <!-- ## 1. svg 在线免费教程 -->
 
@@ -96,7 +95,6 @@
 - 0023
 - 0036
 - 0037
-
 
 - [ ] [0033. 简易动态坐标系制作](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0033.%20%E7%AE%80%E6%98%93%E5%8A%A8%E6%80%81%E5%9D%90%E6%A0%87%E7%B3%BB%E5%88%B6%E4%BD%9C/README.md)
 - [ ] [0039. 【练习】绘制静态折线图](https://github.com/tnotesjs/TNotes.svg/tree/main/notes/0039.%20%E3%80%90%E7%BB%83%E4%B9%A0%E3%80%91%E7%BB%98%E5%88%B6%E9%9D%99%E6%80%81%E6%8A%98%E7%BA%BF%E5%9B%BE/README.md)
