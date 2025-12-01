@@ -20,11 +20,22 @@
       "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--svg.png"
     },
     "title": "svg",
-    "completed_notes_count": 34,
+    "completed_notes_count": {
+      "25.03": 0,
+      "25.04": 0,
+      "25.05": 0,
+      "25.06": 0,
+      "25.07": 34,
+      "25.08": 34,
+      "25.09": 34,
+      "25.10": 34,
+      "25.11": 34,
+      "25.12": 34
+    },
     "details": "SVG 笔记",
     "link": "https://tnotesjs.github.io/TNotes.svg/",
     "created_at": 1741007859000,
-    "updated_at": 1762780413574,
+    "updated_at": 1764548512072,
     "days_since_birth": 9380
   },
   "menuItems": [
