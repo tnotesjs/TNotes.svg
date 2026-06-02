@@ -32,13 +32,14 @@
       "26.01": 34,
       "26.02": 34,
       "26.03": 34,
-      "26.04": 34
+      "26.04": 34,
+      "26.06": 34
     },
     "details": "SVG 笔记",
     "link": "https://tnotesjs.github.io/TNotes.svg/",
     "created_at": 1741007859000,
-    "updated_at": 1775000956000,
-    "days_since_birth": 9774
+    "updated_at": 1780377249000,
+    "days_since_birth": 9836
   },
   "menuItems": [
     {
