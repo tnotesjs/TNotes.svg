@@ -2,15 +2,16 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用 circle 绘制圆形](#1--demos1---使用-circle-绘制圆形)
-- [2. 💻 demos.2 - 使用 circle 绘制圆形](#2--demos2---使用-circle-绘制圆形)
+- [1. demos.1 - 使用 circle 绘制圆形](#1-demos1---使用-circle-绘制圆形)
+- [2. demos.2 - 使用 circle 绘制圆形](#2-demos2---使用-circle-绘制圆形)
 
 <!-- endregion:toc -->
+
 - 绘制一个圆需要知道的信息：
   1. 圆心的坐标 `cx` `cy`
   2. 绘制的圆的半径 `r`
 
-## 1. 💻 demos.1 - 使用 circle 绘制圆形
+## 1. demos.1 - 使用 circle 绘制圆形
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
@@ -35,7 +36,7 @@
 
 - ![](assets/2024-12-09-16-51-39.png)
 
-## 2. 💻 demos.2 - 使用 circle 绘制圆形
+## 2. demos.2 - 使用 circle 绘制圆形
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

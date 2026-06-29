@@ -2,11 +2,11 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用 `<polygon>` 绘制多边形](#1--demos1---使用-polygon-绘制多边形)
+- [1. demos.1 - 使用 `<polygon>` 绘制多边形](#1-demos1---使用-polygon-绘制多边形)
 
 <!-- endregion:toc -->
- 
-## 1. 💻 demos.1 - 使用 `<polygon>` 绘制多边形
+
+## 1. demos.1 - 使用 `<polygon>` 绘制多边形
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

@@ -2,16 +2,17 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用 `<ellipse>` 绘制椭圆形](#1--demos1---使用-ellipse-绘制椭圆形)
+- [1. demos.1 - 使用 `<ellipse>` 绘制椭圆形](#1-demos1---使用-ellipse-绘制椭圆形)
 
 <!-- endregion:toc -->
+
 - 绘制椭圆需要知道的信息：
   1. 椭圆的圆心 cx cy
   2. 椭圆的 x 轴半径 rx
   3. 椭圆的 y 轴半径 ry
 - 如果 rx = ry，那么其实绘制的就是一个圆。
 
-## 1. 💻 demos.1 - 使用 `<ellipse>` 绘制椭圆形
+## 1. demos.1 - 使用 `<ellipse>` 绘制椭圆形
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

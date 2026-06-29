@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用 `<line>` 绘制直线](#1--demos1---使用-line-绘制直线)
+- [1. demos.1 - 使用 `<line>` 绘制直线](#1-demos1---使用-line-绘制直线)
 
 <!-- endregion:toc -->
+
 - 绘制直线，只需要明确起点坐标 `(x1, y1)` 和终点坐标 `(x2, y2)` 即可。
 
-## 1. 💻 demos.1 - 使用 `<line>` 绘制直线
-
+## 1. demos.1 - 使用 `<line>` 绘制直线
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

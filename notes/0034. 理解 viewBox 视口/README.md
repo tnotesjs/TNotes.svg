@@ -2,20 +2,21 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 省略 `viewBox`](#1--demos1---省略-viewbox)
-- [2. 💻 demos.2 - 指定 viewBox 正好装下图形](#2--demos2---指定-viewbox-正好装下图形)
-- [3. 💻 demos.3 - 指定的 viewBox 区域看不到图形](#3--demos3---指定的-viewbox-区域看不到图形)
-- [4. 💻 demos.4 - 根据 demos.3 中的图形位置修改 viewBox 的值](#4--demos4---根据-demos3-中的图形位置修改-viewbox-的值)
-- [5. 🤔 问：svg 中坐标系有多大？](#5--问svg-中坐标系有多大)
-- [6. 🤔 问：`<svg>` 的 width、height 有什么用？](#6--问svg-的-widthheight-有什么用)
-- [7. 🤔 问：`<svg>` 的 width、height 都设置为 500，那么看到的坐标系是哪块区域呢？](#7--问svg-的-widthheight-都设置为-500那么看到的坐标系是哪块区域呢)
+- [1. demos.1 - 省略 `viewBox`](#1-demos1---省略-viewbox)
+- [2. demos.2 - 指定 viewBox 正好装下图形](#2-demos2---指定-viewbox-正好装下图形)
+- [3. demos.3 - 指定的 viewBox 区域看不到图形](#3-demos3---指定的-viewbox-区域看不到图形)
+- [4. demos.4 - 根据 demos.3 中的图形位置修改 viewBox 的值](#4-demos4---根据-demos3-中的图形位置修改-viewbox-的值)
+- [5. 问：svg 中坐标系有多大？](#5-问svg-中坐标系有多大)
+- [6. 问：`<svg>` 的 width、height 有什么用？](#6-问svg-的-widthheight-有什么用)
+- [7. 问：`<svg>` 的 width、height 都设置为 500，那么看到的坐标系是哪块区域呢？](#7-问svg-的-widthheight-都设置为-500那么看到的坐标系是哪块区域呢)
 
 <!-- endregion:toc -->
+
 - viewBox 视口，这是一个对于 svg 初学者来说不那么好理解的属性。
 - 其实 viewBox 这个词已经描述得很到位了，view 看，box 盒子，其中盒子可以理解为一个矩形区域 —— viewBox 表示你要看哪一块矩形区域。
 - 可以结合着 `Q&A` 中提到的问题来理解 viewBox 属性。
 
-## 1. 💻 demos.1 - 省略 `viewBox`
+## 1. demos.1 - 省略 `viewBox`
 
 ```xml
 <!--
@@ -40,8 +41,7 @@ viewbox 属性，决定了展示给用户的 svg 坐标系区域。
 
 ![](assets/2024-12-09-15-54-05.png)
 
-## 2. 💻 demos.2 - 指定 viewBox 正好装下图形
-
+## 2. demos.2 - 指定 viewBox 正好装下图形
 
 ```xml
 <!--
@@ -56,8 +56,7 @@ viewbox 属性，决定了展示给用户的 svg 坐标系区域。
 
 - ![](assets/2024-12-09-15-55-18.png)
 
-## 3. 💻 demos.3 - 指定的 viewBox 区域看不到图形
-
+## 3. demos.3 - 指定的 viewBox 区域看不到图形
 
 ```xml
 <!--
@@ -76,8 +75,7 @@ viewbox 属性，决定了展示给用户的 svg 坐标系区域。
 
 这个示例类似上图，我们在画布上绘制了红色的圆形，可惜它不在 `viewBox` 中，所以我们看不到它。
 
-## 4. 💻 demos.4 - 根据 demos.3 中的图形位置修改 viewBox 的值
-
+## 4. demos.4 - 根据 demos.3 中的图形位置修改 viewBox 的值
 
 ```xml
 <!--
@@ -92,17 +90,17 @@ viewBox 决定了我们想要展示给用户看的那块坐标区域。
 
 - ![](assets/2024-12-09-15-55-18.png)
 
-## 5. 🤔 问：svg 中坐标系有多大？
+## 5. 问：svg 中坐标系有多大？
 
 答：无限大～
 
-## 6. 🤔 问：`<svg>` 的 width、height 有什么用？
+## 6. 问：`<svg>` 的 width、height 有什么用？
 
 svg 的 width、height 属性，决定了页面上最终渲染的 svg 的宽度和高度。
 
 也就是我们看到的画布的大小。
 
-## 7. 🤔 问：`<svg>` 的 width、height 都设置为 500，那么看到的坐标系是哪块区域呢？
+## 7. 问：`<svg>` 的 width、height 都设置为 500，那么看到的坐标系是哪块区域呢？
 
 答：不要问这个问题，该问题的提问本身就存在问题。
 

@@ -2,13 +2,14 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用 `<polyline>` 绘制折线](#1--demos1---使用-polyline-绘制折线)
-- [2. 💻 demos.2 - 使用 `<polyline>` 绘制折线并填充](#2--demos2---使用-polyline-绘制折线并填充)
+- [1. demos.1 - 使用 `<polyline>` 绘制折线](#1-demos1---使用-polyline-绘制折线)
+- [2. demos.2 - 使用 `<polyline>` 绘制折线并填充](#2-demos2---使用-polyline-绘制折线并填充)
 
 <!-- endregion:toc -->
+
 - 绘制折线的写法很简单，挨个标注点，渲染的时候会按照顺序将我们写的点连起来形成折线。
 
-## 1. 💻 demos.1 - 使用 `<polyline>` 绘制折线
+## 1. demos.1 - 使用 `<polyline>` 绘制折线
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
@@ -23,7 +24,7 @@
 
 ![](assets/2024-12-09-16-41-08.png)
 
-## 2. 💻 demos.2 - 使用 `<polyline>` 绘制折线并填充
+## 2. demos.2 - 使用 `<polyline>` 绘制折线并填充
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

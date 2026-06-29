@@ -2,13 +2,14 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - tspan 的基本使用](#1--demos1---tspan-的基本使用)
-- [2. 💻 demos.2 - tspan 的基本使用](#2--demos2---tspan-的基本使用)
+- [1. demos.1 - tspan 的基本使用](#1-demos1---tspan-的基本使用)
+- [2. demos.2 - tspan 的基本使用](#2-demos2---tspan-的基本使用)
 
 <!-- endregion:toc -->
+
 - tspan 是 text 中的子元素，可以更细粒度地去控制文本内容。如果有控制一段文本中的一部分内容的需求，这玩意儿还是很有用的。
 
-## 1. 💻 demos.1 - tspan 的基本使用
+## 1. demos.1 - tspan 的基本使用
 
 ```xml
 <!--
@@ -33,7 +34,7 @@ dx 和 dy 相对于这部分文字原来的位置，重新设置新位置。
 
 - ![](assets/2024-12-09-17-48-26.png)
 
-## 2. 💻 demos.2 - tspan 的基本使用
+## 2. demos.2 - tspan 的基本使用
 
 ```xml
 <!--

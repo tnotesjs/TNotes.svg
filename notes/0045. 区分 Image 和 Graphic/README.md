@@ -2,14 +2,15 @@
 
 <!-- region:toc -->
 
-- [1. 📒 Image vs. Graphic](#1--image-vs-graphic)
+- [1. Image vs. Graphic](#1-image-vs-graphic)
 
 <!-- endregion:toc -->
+
 - 图像（Image）通常指的是 **像素数据的集合**，这些数据以栅格或点阵的形式存储。
 - 图形（Graphic）更多指的是 **通过数学表达式定义的图形**，例如 SVG 中的形状（圆形、矩形、路径等）。
 - 备注：自己能够理解 Image vs. Graphic 之间的区别即可，没必要死扣图形、图像两者的区别。从中文表述层面来看，它们大多时候都是被混用的，图、图形、图像，在书面表达中我们通常会将其视作同样的东西。比如：“A：请使用 canvas 绘制一个图形，要求颜色是……”，“B：不对，canvas 画的是图像（巴拉巴拉）” —— 没必要。
 
-## 1. 📒 Image vs. Graphic
+## 1. Image vs. Graphic
 
 - Image 和 Graphic 理解这俩词的区别，对于理解 svg 和 canvas 的差异有所帮助。从“中文”表述的角度来看，在 svg、canvas 的相关文章中，对于“图形”、“图像”这俩词，很多时候都是混着用的。之所以会记录这篇文档，主要是因为 SVG 的全称（Scalable Vector Graphics）中出现了 Graphics 这个词，同时在 canvas 中的图叫 Canvas Images，对应的词是 Image，所以在此简单记录一下，什么是 Image、Graphic，它们之间的区别又是什么。
 - 在学习 SVG 以及更广泛地讨论计算机图形学时，理解“图像”和“图形”这两个词的区别确实有其价值。这两个概念虽然在日常语言中经常交替使用，但在技术上有着明确的区别，特别是在处理图形数据和渲染技术时。

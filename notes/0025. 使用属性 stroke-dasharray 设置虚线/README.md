@@ -2,13 +2,14 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用属性 stroke-dasharray 设置虚线](#1--demos1---使用属性-stroke-dasharray-设置虚线)
+- [1. demos.1 - 使用属性 stroke-dasharray 设置虚线](#1-demos1---使用属性-stroke-dasharray-设置虚线)
 
 <!-- endregion:toc -->
+
 - path 中的 stroke-dasharray 属性可以用虚线设置描边。
 - 属性值设置的是虚线区域的长度和空白区域的长度。
 
-## 1. 💻 demos.1 - 使用属性 stroke-dasharray 设置虚线
+## 1. demos.1 - 使用属性 stroke-dasharray 设置虚线
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

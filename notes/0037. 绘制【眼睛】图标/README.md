@@ -2,12 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 绘制【眼睛】图标](#1--demos1---绘制眼睛图标)
+- [1. demos.1 - 绘制【眼睛】图标](#1-demos1---绘制眼睛图标)
 
 <!-- endregion:toc -->
+
 - 绘制眼睛图标时，中心有一个镂空的圆环。要弄清楚为什么这块的内容是镂空的，需要理解填充规则 nonzero 和 evenodd。
 
-## 1. 💻 demos.1 - 绘制【眼睛】图标
+## 1. demos.1 - 绘制【眼睛】图标
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

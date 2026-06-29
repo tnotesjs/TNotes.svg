@@ -2,11 +2,11 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用 stroke-dasharray 模拟加载中动画效果](#1--demos1---使用-stroke-dasharray-模拟加载中动画效果)
+- [1. demos.1 - 使用 stroke-dasharray 模拟加载中动画效果](#1-demos1---使用-stroke-dasharray-模拟加载中动画效果)
 
 <!-- endregion:toc -->
 
-## 1. 💻 demos.1 - 使用 stroke-dasharray 模拟加载中动画效果
+## 1. demos.1 - 使用 stroke-dasharray 模拟加载中动画效果
 
 ```xml
 <!DOCTYPE html>
@@ -63,16 +63,20 @@ circleSvgEle.style['transition'] = 'all 1s linear'
 
 circleSvgEle.getBoundingClientRect() // 强制渲染
 
-
 // 让 stroke-dashoffset 自增，增加的大小就是 circle 的周长，也就是转一圈。
-const updateStrokeDashoffset = _ => circleSvgEle.setAttribute('stroke-dashoffset', Number(circleSvgEle.getAttribute('stroke-dashoffset')) + len)
+const updateStrokeDashoffset = (_) =>
+  circleSvgEle.setAttribute(
+    'stroke-dashoffset',
+    Number(circleSvgEle.getAttribute('stroke-dashoffset')) + len,
+  )
 
 // 监听过渡效果结束事件
 circleSvgEle.ontransitionend = (e) => {
   // stroke-dashoffset 不断自增
   if (e.propertyName === 'stroke-dashoffset') updateStrokeDashoffset()
   // 每一圈设置不同的颜色
-  if (e.propertyName === 'stroke') circleSvgEle.setAttribute('stroke', COLORS[++colorIndex % COLORS.length])
+  if (e.propertyName === 'stroke')
+    circleSvgEle.setAttribute('stroke', COLORS[++colorIndex % COLORS.length])
 }
 
 updateStrokeDashoffset() // 开启动画效果

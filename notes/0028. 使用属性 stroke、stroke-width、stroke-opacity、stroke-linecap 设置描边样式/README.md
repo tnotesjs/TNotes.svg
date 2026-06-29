@@ -2,15 +2,16 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用 stroke 相关属性设置描边样式](#1--demos1---使用-stroke-相关属性设置描边样式)
+- [1. demos.1 - 使用 stroke 相关属性设置描边样式](#1-demos1---使用-stroke-相关属性设置描边样式)
 
 <!-- endregion:toc -->
+
 - stroke：设置描边颜色（边框）
 - stroke-width：设置描边粗细
 - stroke-opacity：设置描边颜色的透明度
 - stroke-linecap：设置线段两端的形状
 
-## 1. 💻 demos.1 - 使用 stroke 相关属性设置描边样式
+## 1. demos.1 - 使用 stroke 相关属性设置描边样式
 
 ```xml
 <!--

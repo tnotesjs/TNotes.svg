@@ -2,12 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用属性 stroke-dashoffset 设置虚线的偏移](#1--demos1---使用属性-stroke-dashoffset-设置虚线的偏移)
+- [1. demos.1 - 使用属性 stroke-dashoffset 设置虚线的偏移](#1-demos1---使用属性-stroke-dashoffset-设置虚线的偏移)
 
 <!-- endregion:toc -->
+
 - stroke-dashoffset、stroke-dasharray 这两个属性配合使用，可以实现一些常见的线条移动的动画效果。
 
-## 1. 💻 demos.1 - 使用属性 stroke-dashoffset 设置虚线的偏移
+## 1. demos.1 - 使用属性 stroke-dashoffset 设置虚线的偏移
 
 ```xml
 <!--

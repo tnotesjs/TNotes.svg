@@ -2,12 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - textPath 基本使用](#1--demos1---textpath-基本使用)
+- [1. demos.1 - textPath 基本使用](#1-demos1---textpath-基本使用)
 
 <!-- endregion:toc -->
+
 - 看下文档中提供的 demo 效果，很容易理解其作用。效果蛮惊艳的，不过不太常见。
 
-## 1. 💻 demos.1 - textPath 基本使用
+## 1. demos.1 - textPath 基本使用
 
 ```xml
 <!--

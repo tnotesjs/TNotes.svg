@@ -2,8 +2,8 @@
 
 <!-- region:toc -->
 
-- [1. 📒 notes](#1--notes)
+- [1. notes](#1-notes)
 
 <!-- endregion:toc -->
 
-## 1. 📒 notes
+## 1. notes

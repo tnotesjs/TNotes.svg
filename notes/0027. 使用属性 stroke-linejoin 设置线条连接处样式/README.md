@@ -2,14 +2,15 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用属性 stroke-linejoin 设置线条连接处样式](#1--demos1---使用属性-stroke-linejoin-设置线条连接处样式)
+- [1. demos.1 - 使用属性 stroke-linejoin 设置线条连接处样式](#1-demos1---使用属性-stroke-linejoin-设置线条连接处样式)
 
 <!-- endregion:toc -->
-- miter	`>`	尖角
-- round `)` 圆角
-- bevel `]`	平角
 
-## 1. 💻 demos.1 - 使用属性 stroke-linejoin 设置线条连接处样式
+- miter `>` 尖角
+- round `)` 圆角
+- bevel `]` 平角
+
+## 1. demos.1 - 使用属性 stroke-linejoin 设置线条连接处样式
 
 ```xml
 <!--

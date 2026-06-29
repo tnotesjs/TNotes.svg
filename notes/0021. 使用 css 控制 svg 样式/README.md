@@ -2,15 +2,16 @@
 
 <!-- region:toc -->
 
-- [1. 📒 使用 CSS 控制 SVG 样式的注意事项](#1--使用-css-控制-svg-样式的注意事项)
-- [2. 💻 demos.1 - 在 svg 中嵌入 style](#2--demos1---在-svg-中嵌入-style)
-- [3. 💻 demos.2 - 在 svg 上应用 css 中的动画过渡效果 - 1](#3--demos2---在-svg-上应用-css-中的动画过渡效果---1)
-- [4. 💻 demos.3 - 在 svg 上应用 css 中的动画过渡效果 - 2](#4--demos3---在-svg-上应用-css-中的动画过渡效果---2)
+- [1. 使用 CSS 控制 SVG 样式的注意事项](#1-使用-css-控制-svg-样式的注意事项)
+- [2. demos.1 - 在 svg 中嵌入 style](#2-demos1---在-svg-中嵌入-style)
+- [3. demos.2 - 在 svg 上应用 css 中的动画过渡效果 - 1](#3-demos2---在-svg-上应用-css-中的动画过渡效果---1)
+- [4. demos.3 - 在 svg 上应用 css 中的动画过渡效果 - 2](#4-demos3---在-svg-上应用-css-中的动画过渡效果---2)
 
 <!-- endregion:toc -->
+
 - 不是很重要，快速过～
 
-## 1. 📒 使用 CSS 控制 SVG 样式的注意事项
+## 1. 使用 CSS 控制 SVG 样式的注意事项
 
 可以使用 css 来控制 svg 元素的样式。但是，**对于 svg 元素自身的属性，最好还是写在对应的元素身上，不要通过 css 选择器的写法来加属性**。通过 css 来写，会存在的问题：
 
@@ -22,7 +23,7 @@
 - 如果看到有人这么写，能够理解即可。
 - 如果你的业务要求你必须要将 svg 的属性分离出来写到 css 中，那么可以是先写一些 demos，验证一下哪些属性会存在问题，再针对性地去想想解决方案。
 
-## 2. 💻 demos.1 - 在 svg 中嵌入 style
+## 2. demos.1 - 在 svg 中嵌入 style
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
@@ -51,7 +52,7 @@
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/2331396/1714193362844-c5f5478c-124e-4dae-93a5-dc15c83777aa.png)
 
-## 3. 💻 demos.2 - 在 svg 上应用 css 中的动画过渡效果 - 1
+## 3. demos.2 - 在 svg 上应用 css 中的动画过渡效果 - 1
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
@@ -94,7 +95,7 @@
 - 把鼠标放到这个圆形上之后，过一段时间会变成下图这样的效果。
   - ![](https://cdn.nlark.com/yuque/0/2024/png/2331396/1714193368892-e583101b-d4a5-498a-8498-aa20c26ca7dc.png)
 
-## 4. 💻 demos.3 - 在 svg 上应用 css 中的动画过渡效果 - 2
+## 4. demos.3 - 在 svg 上应用 css 中的动画过渡效果 - 2
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

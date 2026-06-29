@@ -2,15 +2,16 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 在 .html 文件中书写多个 svg](#1--demos1---在-html-文件中书写多个-svg)
-- [2. 💻 demos.2 - 在 .svg 文件中只能书写单个 svg](#2--demos2---在-svg-文件中只能书写单个-svg)
+- [1. demos.1 - 在 .html 文件中书写多个 svg](#1-demos1---在-html-文件中书写多个-svg)
+- [2. demos.2 - 在 .svg 文件中只能书写单个 svg](#2-demos2---在-svg-文件中只能书写单个-svg)
 
 <!-- endregion:toc -->
+
 - 根元素的数量得看你在什么位置写，是写在 `.svg` 中还是 `.html` 中，前者 `.svg` 只能出现一个 `<svg>` 根元素，后者 `.html` 可以有多个 `<svg>` 根元素。
 - svg 标签写在 `.svg` 文件中，作为根标记，要求有且只有一个。
 - svg 标签写在 `.html` 文件中，可以写多个标记，表示嵌入了多个 svg 图片，每一个 svg 都是一个独立的区域。
 
-## 1. 💻 demos.1 - 在 .html 文件中书写多个 svg
+## 1. demos.1 - 在 .html 文件中书写多个 svg
 
 ```xml
 <!DOCTYPE html>
@@ -23,7 +24,7 @@
   <body>
     <!-- svg 标签写在 .html 文件中可以写多个 -->
     <!-- 每一个 svg 都是一个独立的区域 -->
-    
+
     <!-- 嵌入多个 svg -->
     <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
       <circle
@@ -51,7 +52,7 @@
 
 - ![](assets/2024-12-09-15-38-48.png)
 
-## 2. 💻 demos.2 - 在 .svg 文件中只能书写单个 svg
+## 2. demos.2 - 在 .svg 文件中只能书写单个 svg
 
 ```xml
 <!-- svg 标签写在 .svg 文件中，作为根标记，要求有且只有一个。 -->

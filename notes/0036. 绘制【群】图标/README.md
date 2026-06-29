@@ -2,14 +2,15 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 绘制「群」图标](#1--demos1---绘制群图标)
+- [1. demos.1 - 绘制「群」图标](#1-demos1---绘制群图标)
 
 <!-- endregion:toc -->
+
 - 本节涉及的知识点：使用 `path` 标签来绘制弧。
   - `svg.0011`
 - 能够理解这个群的图标其实就是通过几段弧绘制出来的即可。
 
-## 1. 💻 demos.1 - 绘制「群」图标
+## 1. demos.1 - 绘制「群」图标
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

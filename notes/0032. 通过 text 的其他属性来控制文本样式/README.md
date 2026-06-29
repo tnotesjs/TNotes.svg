@@ -2,9 +2,10 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 设置文本样式](#1--demos1---设置文本样式)
+- [1. demos.1 - 设置文本样式](#1-demos1---设置文本样式)
 
 <!-- endregion:toc -->
+
 - fill：设置字体颜色
 - font-size：设置文字大小
 - font-family：设置字体
@@ -19,7 +20,7 @@
 - font-variant：设置文字变体
   - small-caps 转大写，不过是小型的大写字母
 
-## 1. 💻 demos.1 - 设置文本样式
+## 1. demos.1 - 设置文本样式
 
 ```xml
 <!--

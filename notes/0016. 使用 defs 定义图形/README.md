@@ -2,13 +2,14 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 使用 defs 定义图形](#1--demos1---使用-defs-定义图形)
+- [1. demos.1 - 使用 defs 定义图形](#1-demos1---使用-defs-定义图形)
 - [2. demos.2 - defs + g + use](#2-demos2---defs--g--use)
 
 <!-- endregion:toc -->
+
 - `<defs>` 用于定义图形，使用 `<defs>` 定义的元素不会直接显示，除非被其他 SVG 元素通过引用使用，通常配合 `<use>`、`<g>` 一起使用。
 
-## 1. 💻 demos.1 - 使用 defs 定义图形
+## 1. demos.1 - 使用 defs 定义图形
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

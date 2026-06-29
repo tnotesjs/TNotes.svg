@@ -2,17 +2,18 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - 绘制矩形](#1--demos1---绘制矩形)
-- [2. 💻 demos.2 - 绘制圆角矩形](#2--demos2---绘制圆角矩形)
+- [1. demos.1 - 绘制矩形](#1-demos1---绘制矩形)
+- [2. demos.2 - 绘制圆角矩形](#2-demos2---绘制圆角矩形)
 
 <!-- endregion:toc -->
+
 - 绘制一个矩形，需要知道两组信息：
   1. 从哪个点开始绘制 `x`、`y`
   2. 绘制矩形的宽度和高度是多少 `width`、`height`
 - 圆角
   - 通过 `rx` `ry` 可以设置矩形的圆角效果。
 
-## 1. 💻 demos.1 - 绘制矩形
+## 1. demos.1 - 绘制矩形
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
@@ -32,8 +33,7 @@
 
 ![](assets/2025-01-26-14-17-35.png)
 
-
-## 2. 💻 demos.2 - 绘制圆角矩形
+## 2. demos.2 - 绘制圆角矩形
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">

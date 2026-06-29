@@ -2,21 +2,22 @@
 
 <!-- region:toc -->
 
-- [1. 🔗 links](#1--links)
-- [2. 📒 `<g>` 标签简介](#2--g-标签简介)
-- [3. 💻 demos.1 - 使用 `<g>` 包裹多个元素实现多次复用](#3--demos1---使用-g-包裹多个元素实现多次复用)
+- [1. links](#1-links)
+- [2. `<g>` 标签简介](#2-g-标签简介)
+- [3. demos.1 - 使用 `<g>` 包裹多个元素实现多次复用](#3-demos1---使用-g-包裹多个元素实现多次复用)
 
 <!-- endregion:toc -->
+
 - 你可以将 `<g>` 理解为 html 中的 `<div>` 标签，没有任何实际的特殊效果，仅仅是起到一个容器的角色。
 - 可以使用 `<g>` 标签，将那些需要复用的元素给一起包裹起来，实现复用多个元素组成的组件。
 - `<g>` 通常用于配合 `<use>`、`<defs>` 一起使用。
 
-## 1. 🔗 links
+## 1. links
 
 - https://developer.mozilla.org/zh-CN/docs/Web/SVG/Element/g
   - mdn svg g
 
-## 2. 📒 `<g>` 标签简介
+## 2. `<g>` 标签简介
 
 [`<g>`](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Element/g) 元素用作一个容器，它可以将多个图形组合在一起作为一个组处理。
 
@@ -24,7 +25,7 @@
 
 可以将其视作 html 中的 `<div>`，起到的仅仅是一个容器的作用，没有任何特殊效果。
 
-## 3. 💻 demos.1 - 使用 `<g>` 包裹多个元素实现多次复用
+## 3. demos.1 - 使用 `<g>` 包裹多个元素实现多次复用
 
 ```xml
 <svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
