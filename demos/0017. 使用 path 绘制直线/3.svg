@@ -1,0 +1,18 @@
+<!--
+注意关键字大小写
+关键字大写和小写，含义是不同的。
+
+示例：
+
+M10 10 L40 20
+表示从 (10,10) 点向 (40,20) 点画直线 — 绝对位置
+
+M10 10 l40 20
+表示从 (10,10) 点向 (10 + 40, 10 + 20) 点画直线 — 相对位置
+也就是基于 (10, 10) 点偏移，x 轴距离加 40，y 轴距离加 20
+-->
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 10 L40 20" fill="none" stroke="blue" stroke-width="2" />
+  <path d="M10 10 l40 20" fill="none" stroke="green" stroke-width="2" />
+  <path d="M50 50 L60 60 m-10 0 L60 50" fill="none" stroke="red" stroke-width="2" />
+</svg>

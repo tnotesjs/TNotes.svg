@@ -1,0 +1,21 @@
+<!--
+A rx ry x-axis-rotation large-arc-flag sweep-flag x y
+
+d="M 30 50 A 15 30 45 1 1 60 50"
+表示从点 (30, 50) 开始，绘制一个半径为 15 的水平半径和 30 的垂直半径，旋转 45 度的椭圆弧，选择 【顺时针】 方向的 【大弧】，结束于点 (60, 50)。
+
+d="M 30 50 A 15 30 45 0 0 60 50"
+表示从点 (30, 50) 开始，绘制一个半径为 15 的水平半径和 30 的垂直半径，旋转 45 度的椭圆弧，选择 【逆时针】 方向的 【小弧】，结束于点 (60, 50)。
+-->
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- 未旋转的椭圆 - 用作参考 -->
+  <path d="M 30 50 A 15 30 0 1 1 60 50" fill="none" stroke="gray" stroke-width=".5" />
+  <path d="M 30 50 A 15 30 0 0 0 60 50" fill="none" stroke="gray" stroke-width=".5" />
+
+  <!-- 旋转的椭圆 -->
+  <path d="M 30 50 A 15 30 45 1 1 60 50" fill="none" stroke="blue" stroke-width="1" />
+  <path d="M 30 50 A 15 30 45 0 0 60 50" fill="none" stroke="orange" stroke-width="1" />
+
+  <circle cx="30" cy="50" r="1" fill="red" />
+  <circle cx="60" cy="50" r="1" fill="red" />
+</svg>

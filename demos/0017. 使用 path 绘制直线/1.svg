@@ -1,0 +1,27 @@
+<!--
+<path> 根据点连接，绘制各种图形。
+
+能够绘制直线（线段、折线、矩形、多边形这些都是直线）
+能够绘制曲线（贝塞尔曲线，弧线）。
+
+<path> 的 d 属性 ≈ 折线 <polyline> 中的 points 属性
+<path> 的 d 属性 ≈ 多边形 <polygon> 中的 points 属性
+都是用来设置多个坐标点的。
+
+直线相关的关键字：M/m、L/l
+
+M/m（Move To）
+移动到指定的坐标点，设置笔触所在的起始位置（要从哪个坐标位置开始画）。
+
+L/l（Line To）
+从当前坐标点到指定的坐标点绘制直线。
+-->
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <path d="M30 30 L60 30" fill="none" stroke="blue" stroke-width="2" />
+  <line x1="30" y1="40" x2="60" y2="40" stroke="green" stroke-width="2" />
+  <polyline points="30 50,60 50" stroke="red" stroke-width="2" />
+  <!--
+  上面这 3 种写法都可以绘制直线。
+  由此可见，其实在 svg 中，想要绘制某种图形，写法并不是唯一的。
+  -->
+</svg>

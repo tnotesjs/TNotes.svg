@@ -1,0 +1,27 @@
+<!--
+A（Arc）这个命令用于绘制弧线。
+
+弧线命令的参数格式为 A rx ry x-axis-rotation large-arc-flag sweep-flag x y
+  rx 和 ry：这是弧的椭圆形半径，分别为水平半径和垂直半径。
+  x-axis-rotation：弧所在椭圆的旋转角度，以度为单位。
+  large-arc-flag：这个标志指定绘制大弧还是小弧。
+    如果设为 1，则表示绘制大弧；
+    如果设为 0，则表示绘制小弧；
+  sweep-flag：这个标志控制弧的绘制方向。
+    如果是 0，表示按逆时针方向绘制；
+    如果是 1，表示按顺时针方向绘制；
+  x 和 y：这是弧的终点坐标。
+
+d="M30 50 A15 15 0 0 0 60 50"
+表示从点 (30, 50) 开始，绘制一个半径为 15 的逆时针方向的小弧，结束于点 (60, 50)。
+
+d="M30 50 A15 15 0 0 1 60 50"
+表示从点 (30, 50) 开始，绘制一个半径为 15 的顺时针方向的小弧，结束于点 (60, 50)。
+  -->
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 30 50 A 15 15 0 0 1 60 50" fill="none" stroke="blue" stroke-width="1" />
+  <path d="M 30 50 A 15 15 0 0 0 60 50" fill="none" stroke="orange" stroke-width="1" />
+
+  <circle cx="30" cy="50" r="1" fill="red" />
+  <circle cx="60" cy="50" r="1" fill="red" />
+</svg>

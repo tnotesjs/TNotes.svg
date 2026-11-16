@@ -1,0 +1,7 @@
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- 扫码 -->
+  <!-- 示例中绘制的扫码图标，使用的是 <path> 绘制直线的相关知识来实现的。 -->
+  <!-- 能够看懂代码就行。实现方式不唯一，做法有很多种，比如一条条地绘制 <line> 也行。 -->
+  <path d="M 40 35 V 30 H 45 M 55 30 H 60 V 35 M 60 45 V 50 H 55 M 45 50 H 40 V 45 M 40 40 H 60" fill="none"
+    stroke="gray" stroke-width=".5" />
+</svg>

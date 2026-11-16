@@ -1,0 +1,18 @@
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- A rx ry x-axis-rotation large-arc-flag sweep-flag x y -->
+
+  <path d="M 30 50 A 20 20 0 1 1 60 50" fill="none" stroke="red" stroke-width="1" />
+  <!-- 从点 (30, 50) 开始，绘制一个半径均为 20 的圆弧，不旋转椭圆（旋转角度为 0 度），选择顺时针方向的大弧，结束于点 (60, 50)。 -->
+
+  <path d="M 30 50 A 20 20 0 0 1 60 50" fill="none" stroke="green" stroke-width="1" />
+  <!-- 从点 (30, 50) 开始，绘制一个半径均为 20 的圆弧，不旋转椭圆（旋转角度为 0 度），选择顺时针方向的小弧，结束于点 (60, 50)。 -->
+
+  <path d="M 30 50 A 20 20 0 1 0 60 50" fill="none" stroke="blue" stroke-width="1" />
+  <!-- 从点 (30, 50) 开始，绘制一个半径均为 20 的圆弧，不旋转椭圆（旋转角度为 0 度），选择逆时针方向的大弧，结束于点 (60, 50)。 -->
+
+  <path d="M 30 50 A 20 20 0 0 0 60 50" fill="none" stroke="orange" stroke-width="1" />
+  <!-- 从点 (30, 50) 开始，绘制一个半径均为 20 的圆弧，不旋转椭圆（旋转角度为 0 度），选择逆时针方向的小弧，结束于点 (60, 50)。 -->
+
+  <circle cx="30" cy="50" r="1" fill="red" />
+  <circle cx="60" cy="50" r="1" fill="red" />
+</svg>
