@@ -1,0 +1,18 @@
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!--
+    cx 和 cy 在坐标系设置圆心位置
+    cx 全称 Center X  表示圆心的横坐标
+    cy 全称 Center Y  表示圆心的纵坐标
+
+    r 设置圆的半径
+    r  全称 Radius    表示圆的半径
+
+    fill 设置填充颜色
+    opacity 设置透明度
+    stroke 设置边框颜色
+    -->
+  <circle cx="40" cy="40" r="20" fill="red" opacity=".3" stroke="blue" />
+
+  <!-- 标注出圆心 -->
+  <circle cx="40" cy="40" r="1" fill="#000"/>
+</svg>

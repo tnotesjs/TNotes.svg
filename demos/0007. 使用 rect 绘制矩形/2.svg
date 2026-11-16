@@ -1,0 +1,6 @@
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!--
+  使用 rx 和 ry 设置圆角半径
+   -->
+  <rect x="10" y="10" width="50" height="50" fill="none" stroke="blue" rx="10" ry="10" />
+</svg>

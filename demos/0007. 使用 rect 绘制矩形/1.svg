@@ -1,0 +1,13 @@
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!--
+  矩形默认有一个黑色的填充（背景色），可以使用 fill 和 stroke 属性设置填充颜色和边框颜色。
+    比如：fill="none" 表示没有填充颜色。
+    需要知道的是，所有图形都有 fill 和 stroke 属性。
+
+  <rect x="10" y="10" width="50" height="50" />
+    x="10" y="10" 设置矩形的左上角坐标，可以理解为绘制的起点。
+    width="50" height="50" 设置矩形的宽和高。
+    由于没有设置 fill，所以默认为黑色填充。
+  -->
+  <rect x="10" y="10" width="50" height="50" />
+</svg>

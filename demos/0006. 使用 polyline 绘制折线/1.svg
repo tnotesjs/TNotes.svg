@@ -1,0 +1,8 @@
+<svg style="margin: 3rem;" width="500px" height="500px" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!--
+  多个点，依次绘制直线，最终形成一个折线效果。
+  points 设置多个点的坐标值集合。
+  每一对表示一个点在坐标，每一个值可以使用【空格】或【逗号】隔开。
+  -->
+  <polyline points="20 20, 90 90, 90 10, 20 90" fill="none" stroke="blue" stroke-width="1"/>
+</svg>
